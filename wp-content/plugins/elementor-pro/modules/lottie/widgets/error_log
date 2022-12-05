@@ -1,0 +1,1 @@
+[22-Mar-2021 23:38:09 America/Boise] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/saucycui/public_html/thunderresume/wp-content/plugins/elementor-pro/modules/lottie/widgets/lottie.php on line 3
